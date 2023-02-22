@@ -1,0 +1,14 @@
+keras 
+matplotlib==3.3.0 
+nibabel 
+nifti2gif 
+nilearn 
+numpy 
+opencv-python 
+pandas 
+pydot 
+scikit-image 
+seaborn 
+tensorflow
+SimpleITK
+
