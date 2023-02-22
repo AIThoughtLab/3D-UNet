@@ -7,5 +7,7 @@ To use this repository,
 * run "pip install -r requirements.txt" in your shell and set the path according to your data location. 
 * Please note that this repository has been tested in Google Colab Pro.
 
+If you want to test, start at **brats2020.ipynb** and execute each cell.
+
 A mean-iou of 91.94 % obtained in the validation dataset. 
 For more information visit [here](https://aithoughtlab.github.io/ThinkingAI/projects/3d-unet/)
